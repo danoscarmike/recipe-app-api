@@ -3,4 +3,4 @@
 
 Recipe app api source code
 
-<div style="text-align: center;">☘️</div>
+<div align="center">☘️</div>
